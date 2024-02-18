@@ -1,7 +1,7 @@
 import AppName from "./Components/AppName";
 import AddToDo from "./Components/AddToDo";
 import TodoItems from "./Components/TodoItems";
-import "./app.css";
+import "./index.css";
 import WelcomeMsg from "./Components/WelcomeMsg";
 import TodoItemsContextProvider from "./store/todoItemsStore";
 
